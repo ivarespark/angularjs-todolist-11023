@@ -1,0 +1,2 @@
+-- Para descargar libreria
+https://github.com/grevory/angular-local-storage/tree/master/dist
